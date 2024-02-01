@@ -1,0 +1,12 @@
+{
+  "name": "@daniel-livingston/dbd-perks",
+  "description": "A JSON file containing all Dead by Daylight perks.",
+  "author": "Daniel Livingston",
+  "version": "0.0.1",
+  "license": "MIT",
+  "files": [
+    "perks.json"
+  ],
+  "main": "perks.json",
+  "exports": "./perks.json"
+}
