@@ -5,11 +5,17 @@
   "version": "0.0.1",
   "license": "MIT",
   "files": [
-    "perks.json"
+    "dist"
   ],
   "exports": {
-    "./killers.json": "./killers.json",
-    "./perks.json": "./perks.json",
-    "./survivors.json": "./survivors.json"
+    "./killers.json": "./dist/killers.json",
+    "./perks.json": "./dist/perks.json",
+    "./survivors.json": "./dist/survivors.json"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
   }
 }
