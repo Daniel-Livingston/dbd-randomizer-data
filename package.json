@@ -1,12 +1,15 @@
 {
-  "name": "@daniel-livingston/dbd-perks",
-  "description": "A JSON file containing all Dead by Daylight perks.",
+  "name": "@daniel-livingston/dbd-randomizer-data",
+  "description": "A JSON file containing all Dead by Daylight data needed for the randomizer.",
   "author": "Daniel Livingston",
   "version": "0.0.1",
   "license": "MIT",
   "files": [
     "perks.json"
   ],
-  "main": "perks.json",
-  "exports": "./perks.json"
+  "exports": {
+    "./killers.json": "./killers.json",
+    "./perks.json": "./perks.json",
+    "./survivors.json": "./survivors.json"
+  }
 }
