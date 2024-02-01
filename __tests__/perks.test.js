@@ -17,8 +17,11 @@ describe("Perks", () => {
 });
 
 describe("Survivor Perks", () => {
-  it("should have the expected number of perks", () => {
-    assert.strictEqual(perks.length, EXPECTED_NUMBER_OF_SURVIVOR_PERKS);
+  it("should have the expected number of perks for survivor", () => {
+    assert.strictEqual(
+      perks.filter((p) => p.role === "survivor").length,
+      EXPECTED_NUMBER_OF_SURVIVOR_PERKS
+    );
   });
 
   it("should have exactly 3 perks assigned to each survivor", () => {
