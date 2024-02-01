@@ -1,404 +1,672 @@
 [
   {
-    "name": "Ace in the Hole"
+    "name": "Ace in the Hole",
+    "role": "survivor",
+    "character": "Ace Visconti"
   },
   {
-    "name": "Adrenaline"
+    "name": "Adrenaline",
+    "role": "survivor",
+    "character": "Meg Thomas"
   },
   {
-    "name": "Aftercare"
+    "name": "Aftercare",
+    "role": "survivor",
+    "character": "Jeff Johansen"
   },
   {
-    "name": "Alert"
+    "name": "Alert",
+    "role": "survivor",
+    "character": "Feng Min"
   },
   {
-    "name": "Any Means Necessary"
+    "name": "Any Means Necessary",
+    "role": "survivor",
+    "character": "Yui Kimura"
   },
   {
-    "name": "Appraisal"
+    "name": "Appraisal",
+    "role": "survivor",
+    "character": "Élodie Rakoto"
   },
   {
-    "name": "Autodidact"
+    "name": "Autodidact",
+    "role": "survivor",
+    "character": "Adam Francis"
   },
   {
-    "name": "Babysitter"
+    "name": "Babysitter",
+    "role": "survivor",
+    "character": "Steve Harrington"
   },
   {
-    "name": "Background Player"
+    "name": "Background Player",
+    "role": "survivor",
+    "character": "Renato Lyra"
   },
   {
-    "name": "Balanced Landing"
+    "name": "Balanced Landing",
+    "role": "survivor",
+    "character": "Nea Karlsson"
   },
   {
-    "name": "Better Together"
+    "name": "Better Together",
+    "role": "survivor",
+    "character": "Nancy Wheeler"
   },
   {
-    "name": "Better than New"
+    "name": "Better than New",
+    "role": "survivor",
+    "character": "Rebecca Chambers"
   },
   {
-    "name": "Bite the Bullet"
+    "name": "Bite the Bullet",
+    "role": "survivor",
+    "character": "Leon S. Kennedy"
   },
   {
-    "name": "Blast Mine"
+    "name": "Blast Mine",
+    "role": "survivor",
+    "character": "Jill Valentine"
   },
   {
-    "name": "Blood Pact"
+    "name": "Blood Pact",
+    "role": "survivor",
+    "character": "Cheryl Mason"
   },
   {
-    "name": "Blood Rush"
+    "name": "Blood Rush",
+    "role": "survivor",
+    "character": "Renato Lyra"
   },
   {
-    "name": "Boil Over"
+    "name": "Boil Over",
+    "role": "survivor",
+    "character": "Kate Denson"
   },
   {
-    "name": "Bond"
+    "name": "Bond",
+    "role": "survivor",
+    "character": "Dwight Fairfield"
   },
   {
-    "name": "Boon: Circle of Healing"
+    "name": "Boon: Circle of Healing",
+    "role": "survivor",
+    "character": "Mikaela Reid"
   },
   {
-    "name": "Boon: Dark Theory"
+    "name": "Boon: Dark Theory",
+    "role": "survivor",
+    "character": "Yoichi Asakawa"
   },
   {
-    "name": "Boon: Exponential"
+    "name": "Boon: Exponential",
+    "role": "survivor",
+    "character": "Jonah Vasquez"
   },
   {
-    "name": "Boon: Illumination"
+    "name": "Boon: Illumination",
+    "role": "survivor",
+    "character": "Alan Wake"
   },
   {
-    "name": "Boon: Shadow Step"
+    "name": "Boon: Shadow Step",
+    "role": "survivor",
+    "character": "Mikaela Reid"
   },
   {
-    "name": "Borrowed Time"
+    "name": "Borrowed Time",
+    "role": "survivor",
+    "character": "Bill Overbeck"
   },
   {
-    "name": "Botany Knowledge"
+    "name": "Botany Knowledge",
+    "role": "survivor",
+    "character": "Claudette Morel"
   },
   {
-    "name": "Breakdown"
+    "name": "Breakdown",
+    "role": "survivor",
+    "character": "Jeff Johansen"
   },
   {
-    "name": "Breakout"
+    "name": "Breakout",
+    "role": "survivor",
+    "character": "Yui Kimura"
   },
   {
-    "name": "Buckle Up"
+    "name": "Buckle Up",
+    "role": "survivor",
+    "character": "Ash Williams"
   },
   {
-    "name": "Built to Last"
+    "name": "Built to Last",
+    "role": "survivor",
+    "character": "Felix Richter"
   },
   {
-    "name": "Calm Spirit"
+    "name": "Calm Spirit",
+    "role": "survivor",
+    "character": "Jake Park"
   },
   {
-    "name": "Camaraderie"
+    "name": "Camaraderie",
+    "role": "survivor",
+    "character": "Steve Harrington"
   },
   {
-    "name": "Champion of Light"
+    "name": "Champion of Light",
+    "role": "survivor",
+    "character": "Alan Wake"
   },
   {
-    "name": "Chemical Trap"
+    "name": "Chemical Trap",
+    "role": "survivor",
+    "character": "Ellen Ripley"
   },
   {
-    "name": "Clairvoyance"
+    "name": "Clairvoyance",
+    "role": "survivor",
+    "character": "Mikaela Reid"
   },
   {
-    "name": "Corrective Action"
+    "name": "Corrective Action",
+    "role": "survivor",
+    "character": "Jonah Vasquez"
   },
   {
-    "name": "Counterforce"
+    "name": "Counterforce",
+    "role": "survivor",
+    "character": "Jill Valentine"
   },
   {
-    "name": "Cut Loose"
+    "name": "Cut Loose",
+    "role": "survivor",
+    "character": "Thalita Lyra"
   },
   {
-    "name": "Dance With Me"
+    "name": "Dance With Me",
+    "role": "survivor",
+    "character": "Kate Denson"
   },
   {
-    "name": "Dark Sense"
+    "name": "Dark Sense",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Dead Hard"
+    "name": "Dead Hard",
+    "role": "survivor",
+    "character": "David King"
   },
   {
-    "name": "Deadline"
+    "name": "Deadline",
+    "role": "survivor",
+    "character": "Alan Wake"
   },
   {
-    "name": "Deception"
+    "name": "Deception",
+    "role": "survivor",
+    "character": "Élodie Rakoto"
   },
   {
-    "name": "Decisive Strike"
+    "name": "Decisive Strike",
+    "role": "survivor",
+    "character": "Laurie Strode"
   },
   {
-    "name": "Déjà Vu"
+    "name": "Déjà Vu",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Deliverance"
+    "name": "Deliverance",
+    "role": "survivor",
+    "character": "Adam Francis"
   },
   {
-    "name": "Desperate Measures"
+    "name": "Desperate Measures",
+    "role": "survivor",
+    "character": "Felix Richter"
   },
   {
-    "name": "Detective's Hunch"
+    "name": "Detective's Hunch",
+    "role": "survivor",
+    "character": "Detective Tapp"
   },
   {
-    "name": "Distortion"
+    "name": "Distortion",
+    "role": "survivor",
+    "character": "Jeff Johansen"
   },
   {
-    "name": "Diversion"
+    "name": "Diversion",
+    "role": "survivor",
+    "character": "Adam Francis"
   },
   {
-    "name": "Dramaturgy"
+    "name": "Dramaturgy",
+    "role": "survivor",
+    "character": "Nicolas Cage"
   },
   {
-    "name": "Empathic Connection"
+    "name": "Empathic Connection",
+    "role": "survivor",
+    "character": "Yoichi Asakawa"
   },
   {
-    "name": "Empathy"
+    "name": "Empathy",
+    "role": "survivor",
+    "character": "Claudette Morel"
   },
   {
-    "name": "Fast Track"
+    "name": "Fast Track",
+    "role": "survivor",
+    "character": "Yun-Jin Lee"
   },
   {
-    "name": "Fixated"
+    "name": "Fixated",
+    "role": "survivor",
+    "character": "Nancy Wheeler"
   },
   {
-    "name": "Flashbang"
+    "name": "Flashbang",
+    "role": "survivor",
+    "character": "Leon S. Kennedy"
   },
   {
-    "name": "Flip-Flop"
+    "name": "Flip-Flop",
+    "role": "survivor",
+    "character": "Ash Williams"
   },
   {
-    "name": "Fogwise"
+    "name": "Fogwise",
+    "role": "survivor",
+    "character": "Vittorio Toscano"
   },
   {
-    "name": "For the People"
+    "name": "For the People",
+    "role": "survivor",
+    "character": "Zarina Kassir"
   },
   {
-    "name": "Friendly Competition"
+    "name": "Friendly Competition",
+    "role": "survivor",
+    "character": "Thalita Lyra"
   },
   {
-    "name": "Head On"
+    "name": "Head On",
+    "role": "survivor",
+    "character": "Jane Romero"
   },
   {
-    "name": "Hope"
+    "name": "Hope",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Hyperfocus"
+    "name": "Hyperfocus",
+    "role": "survivor",
+    "character": "Rebecca Chambers"
   },
   {
-    "name": "Inner Focus"
+    "name": "Inner Focus",
+    "role": "survivor",
+    "character": "Haddie Kaur"
   },
   {
-    "name": "Inner Strength"
+    "name": "Inner Strength",
+    "role": "survivor",
+    "character": "Nancy Wheeler"
   },
   {
-    "name": "Iron Will"
+    "name": "Iron Will",
+    "role": "survivor",
+    "character": "Jake Park"
   },
   {
-    "name": "Kindred"
+    "name": "Kindred",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Leader"
+    "name": "Leader",
+    "role": "survivor",
+    "character": "Dwight Fairfield"
   },
   {
-    "name": "Left Behind"
+    "name": "Left Behind",
+    "role": "survivor",
+    "character": "Bill Overbeck"
   },
   {
-    "name": "Light-Footed"
+    "name": "Light-Footed",
+    "role": "survivor",
+    "character": "Ellen Ripley"
   },
   {
-    "name": "Lightweight"
+    "name": "Lightweight",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Lithe"
+    "name": "Lithe",
+    "role": "survivor",
+    "character": "Feng Min"
   },
   {
-    "name": "Low Profile"
+    "name": "Low Profile",
+    "role": "survivor",
+    "character": "Ada Wong"
   },
   {
-    "name": "Lucky Break"
+    "name": "Lucky Break",
+    "role": "survivor",
+    "character": "Yui Kimura"
   },
   {
-    "name": "Lucky Star"
+    "name": "Lucky Star",
+    "role": "survivor",
+    "character": "Yui Kimura"
   },
   {
-    "name": "Made for This"
+    "name": "Made for This",
+    "role": "survivor",
+    "character": "Gabriel Soma"
   },
   {
-    "name": "Mettle of Man"
+    "name": "Mettle of Man",
+    "role": "survivor",
+    "character": "Ash Williams"
   },
   {
-    "name": "No Mither"
+    "name": "No Mither",
+    "role": "survivor",
+    "character": "David King"
   },
   {
-    "name": "No One Left Behind"
+    "name": "No One Left Behind",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Object of Obsession"
+    "name": "Object of Obsession",
+    "role": "survivor",
+    "character": "Laurie Strode"
   },
   {
-    "name": "Off the Record"
+    "name": "Off the Record",
+    "role": "survivor",
+    "character": "Zarina Kassir"
   },
   {
-    "name": "Open-Handed"
+    "name": "Open-Handed",
+    "role": "survivor",
+    "character": "Ace Visconti"
   },
   {
-    "name": "Overcome"
+    "name": "Overcome",
+    "role": "survivor",
+    "character": "Jonah Vasquez"
   },
   {
-    "name": "Overzealous"
+    "name": "Overzealous",
+    "role": "survivor",
+    "character": "Haddie Kaur"
   },
   {
-    "name": "Parental Guidance"
+    "name": "Parental Guidance",
+    "role": "survivor",
+    "character": "Yoichi Asakawa"
   },
   {
-    "name": "Pharmacy"
+    "name": "Pharmacy",
+    "role": "survivor",
+    "character": "Quentin Smith"
   },
   {
-    "name": "Plot Twist"
+    "name": "Plot Twist",
+    "role": "survivor",
+    "character": "Nicolas Cage"
   },
   {
-    "name": "Plunderer's Instinct"
+    "name": "Plunderer's Instinct",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Poised"
+    "name": "Poised",
+    "role": "survivor",
+    "character": "Jane Romero"
   },
   {
-    "name": "Potential Energy"
+    "name": "Potential Energy",
+    "role": "survivor",
+    "character": "Vittorio Toscano"
   },
   {
-    "name": "Power Struggle"
+    "name": "Power Struggle",
+    "role": "survivor",
+    "character": "Élodie Rakoto"
   },
   {
-    "name": "Premonition"
+    "name": "Premonition",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Prove Thyself"
+    "name": "Prove Thyself",
+    "role": "survivor",
+    "character": "Dwight Fairfield"
   },
   {
-    "name": "Quick & Quiet"
+    "name": "Quick & Quiet",
+    "role": "survivor",
+    "character": "Meg Thomas"
   },
   {
-    "name": "Quick Gambit"
+    "name": "Quick Gambit",
+    "role": "survivor",
+    "character": "Vittorio Toscano"
   },
   {
-    "name": "Reactive Healing"
+    "name": "Reactive Healing",
+    "role": "survivor",
+    "character": "Ada Wong"
   },
   {
-    "name": "Reassurance"
+    "name": "Reassurance",
+    "role": "survivor",
+    "character": "Rebecca Chambers"
   },
   {
-    "name": "Red Herring"
+    "name": "Red Herring",
+    "role": "survivor",
+    "character": "Zarina Kassir"
   },
   {
-    "name": "Repressed Alliance"
+    "name": "Repressed Alliance",
+    "role": "survivor",
+    "character": "Cheryl Mason"
   },
   {
-    "name": "Residual Manifest"
+    "name": "Residual Manifest",
+    "role": "survivor",
+    "character": "Haddie Kaur"
   },
   {
-    "name": "Resilience"
+    "name": "Resilience",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Resurgence"
+    "name": "Resurgence",
+    "role": "survivor",
+    "character": "Jill Valentine"
   },
   {
-    "name": "Rookie Spirit"
+    "name": "Rookie Spirit",
+    "role": "survivor",
+    "character": "Leon S. Kennedy"
   },
   {
-    "name": "Saboteur"
+    "name": "Saboteur",
+    "role": "survivor",
+    "character": "Jake Park"
   },
   {
-    "name": "Scavenger"
+    "name": "Scavenger",
+    "role": "survivor",
+    "character": "Gabriel Soma"
   },
   {
-    "name": "Scene Partner"
+    "name": "Scene Partner",
+    "role": "survivor",
+    "character": "Nicolas Cage"
   },
   {
-    "name": "Second Wind"
+    "name": "Second Wind",
+    "role": "survivor",
+    "character": "Steve Harrington"
   },
   {
-    "name": "Self-Care"
+    "name": "Self-Care",
+    "role": "survivor",
+    "character": "Claudette Morel"
   },
   {
-    "name": "Self-Preservation"
+    "name": "Self-Preservation",
+    "role": "survivor",
+    "character": "Yun-Jin Lee"
   },
   {
-    "name": "Slippery Meat"
+    "name": "Slippery Meat",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Small Game"
+    "name": "Small Game",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Smash Hit"
+    "name": "Smash Hit",
+    "role": "survivor",
+    "character": "Yun-Jin Lee"
   },
   {
-    "name": "Sole Survivor"
+    "name": "Sole Survivor",
+    "role": "survivor",
+    "character": "Laurie Strode"
   },
   {
-    "name": "Solidarity"
+    "name": "Solidarity",
+    "role": "survivor",
+    "character": "Jane Romero"
   },
   {
-    "name": "Soul Guard"
+    "name": "Soul Guard",
+    "role": "survivor",
+    "character": "Cheryl Mason"
   },
   {
-    "name": "Spine Chill"
+    "name": "Spine Chill",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Sprint Burst"
+    "name": "Sprint Burst",
+    "role": "survivor",
+    "character": "Meg Thomas"
   },
   {
-    "name": "Stake Out"
+    "name": "Stake Out",
+    "role": "survivor",
+    "character": "Detective Tapp"
   },
   {
-    "name": "Streetwise"
+    "name": "Streetwise",
+    "role": "survivor",
+    "character": "Nea Karlsson"
   },
   {
-    "name": "Teamwork: Collective Stealth"
+    "name": "Teamwork: Collective Stealth",
+    "role": "survivor",
+    "character": "Renato Lyra"
   },
   {
-    "name": "Teamwork: Power of Two"
+    "name": "Teamwork: Power of Two",
+    "role": "survivor",
+    "character": "Thalita Lyra"
   },
   {
-    "name": "Technician"
+    "name": "Technician",
+    "role": "survivor",
+    "character": "Feng Min"
   },
   {
-    "name": "Tenacity"
+    "name": "Tenacity",
+    "role": "survivor",
+    "character": "Detective Tapp"
   },
   {
-    "name": "This Is Not Happening"
+    "name": "This Is Not Happening",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "Troubleshooter"
+    "name": "Troubleshooter",
+    "role": "survivor",
+    "character": "Gabriel Soma"
   },
   {
-    "name": "Unbreakable"
+    "name": "Unbreakable",
+    "role": "survivor",
+    "character": "Bill Overbeck"
   },
   {
-    "name": "Up the Ante"
+    "name": "Up the Ante",
+    "role": "survivor",
+    "character": "Ace Visconti"
   },
   {
-    "name": "Urban Evasion"
+    "name": "Urban Evasion",
+    "role": "survivor",
+    "character": "Nea Karlsson"
   },
   {
-    "name": "Vigil"
+    "name": "Vigil",
+    "role": "survivor",
+    "character": "Quentin Smith"
   },
   {
-    "name": "Visionary"
+    "name": "Visionary",
+    "role": "survivor",
+    "character": "Felix Richter"
   },
   {
-    "name": "Wake Up!"
+    "name": "Wake Up!",
+    "role": "survivor",
+    "character": "Quentin Smith"
   },
   {
-    "name": "We'll Make It"
+    "name": "We'll Make It",
+    "role": "survivor",
+    "character": null
   },
   {
-    "name": "We're Gonna Live Forever"
+    "name": "We're Gonna Live Forever",
+    "role": "survivor",
+    "character": "David King"
   },
   {
-    "name": "Windows of Opportunity"
+    "name": "Windows of Opportunity",
+    "role": "survivor",
+    "character": "Kate Denson"
   },
   {
-    "name": "Wiretap"
+    "name": "Wiretap",
+    "role": "survivor",
+    "character": "Ada Wong"
   }
 ]
