@@ -1,8 +1,8 @@
 {
   "name": "@daniel-livingston/dbd-randomizer-data",
-  "description": "A JSON file containing all Dead by Daylight data needed for the randomizer.",
+  "description": "JSON files containing all Dead by Daylight data needed for the randomizer.",
   "author": "Daniel Livingston",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "files": [
     "dist"
