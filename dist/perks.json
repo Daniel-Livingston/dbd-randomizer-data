@@ -1,5 +1,10 @@
 [
   {
+    "name": "A Nurse's Calling",
+    "role": "killer",
+    "character": "The Nurse"
+  },
+  {
     "name": "Ace in the Hole",
     "role": "survivor",
     "character": "Ace Visconti"
@@ -15,9 +20,19 @@
     "character": "Jeff Johansen"
   },
   {
+    "name": "Agitation",
+    "role": "killer",
+    "character": "The Trapper"
+  },
+  {
     "name": "Alert",
     "role": "survivor",
     "character": "Feng Min"
+  },
+  {
+    "name": "Alien Instinct",
+    "role": "killer",
+    "character": "The Xenomorph"
   },
   {
     "name": "Any Means Necessary",
@@ -35,6 +50,11 @@
     "character": "Adam Francis"
   },
   {
+    "name": "Awakened Awareness",
+    "role": "killer",
+    "character": "The Mastermind"
+  },
+  {
     "name": "Babysitter",
     "role": "survivor",
     "character": "Steve Harrington"
@@ -48,6 +68,26 @@
     "name": "Balanced Landing",
     "role": "survivor",
     "character": "Nea Karlsson"
+  },
+  {
+    "name": "Bamboozle",
+    "role": "killer",
+    "character": "The Clown"
+  },
+  {
+    "name": "Barbecue & Chilli",
+    "role": "killer",
+    "character": "The Cannibal"
+  },
+  {
+    "name": "Batteries Included",
+    "role": "killer",
+    "character": "The Good Guy"
+  },
+  {
+    "name": "Beast of Prey",
+    "role": "killer",
+    "character": "The Huntress"
   },
   {
     "name": "Better Together",
@@ -65,9 +105,19 @@
     "character": "Leon S. Kennedy"
   },
   {
+    "name": "Bitter Murmur",
+    "role": "killer",
+    "character": null
+  },
+  {
     "name": "Blast Mine",
     "role": "survivor",
     "character": "Jill Valentine"
+  },
+  {
+    "name": "Blood Echo",
+    "role": "killer",
+    "character": "The Oni"
   },
   {
     "name": "Blood Pact",
@@ -78,6 +128,16 @@
     "name": "Blood Rush",
     "role": "survivor",
     "character": "Renato Lyra"
+  },
+  {
+    "name": "Blood Warden",
+    "role": "killer",
+    "character": "The Nightmare"
+  },
+  {
+    "name": "Bloodhound",
+    "role": "killer",
+    "character": "The Wraith"
   },
   {
     "name": "Boil Over",
@@ -135,6 +195,11 @@
     "character": "Yui Kimura"
   },
   {
+    "name": "Brutal Strength",
+    "role": "killer",
+    "character": "The Trapper"
+  },
+  {
     "name": "Buckle Up",
     "role": "survivor",
     "character": "Ashley J. Williams"
@@ -143,6 +208,11 @@
     "name": "Built to Last",
     "role": "survivor",
     "character": "Felix Richter"
+  },
+  {
+    "name": "Call of Brine",
+    "role": "killer",
+    "character": "The Onryo"
   },
   {
     "name": "Calm Spirit",
@@ -175,9 +245,29 @@
     "character": "Jonah Vasquez"
   },
   {
+    "name": "Corrupt Intervention",
+    "role": "killer",
+    "character": "The Plague"
+  },
+  {
+    "name": "Coulrophobia",
+    "role": "killer",
+    "character": "The Clown"
+  },
+  {
     "name": "Counterforce",
     "role": "survivor",
     "character": "Jill Valentine"
+  },
+  {
+    "name": "Coup de Grâce",
+    "role": "killer",
+    "character": "The Twins"
+  },
+  {
+    "name": "Cruel Limits",
+    "role": "killer",
+    "character": "The Demogorgon"
   },
   {
     "name": "Cut Loose",
@@ -190,9 +280,19 @@
     "character": "Kate Denson"
   },
   {
+    "name": "Dark Devotion",
+    "role": "killer",
+    "character": "The Plague"
+  },
+  {
     "name": "Dark Sense",
     "role": "survivor",
     "character": null
+  },
+  {
+    "name": "Darkness Revealed",
+    "role": "killer",
+    "character": "The Dredge"
   },
   {
     "name": "Dead Hard",
@@ -200,9 +300,24 @@
     "character": "David King"
   },
   {
+    "name": "Dead Man's Switch",
+    "role": "killer",
+    "character": "The Deathslinger"
+  },
+  {
     "name": "Deadline",
     "role": "survivor",
     "character": "Alan Wake"
+  },
+  {
+    "name": "Deadlock",
+    "role": "killer",
+    "character": "The Cenobite"
+  },
+  {
+    "name": "Deathbound",
+    "role": "killer",
+    "character": "The Executioner"
   },
   {
     "name": "Deception",
@@ -213,6 +328,11 @@
     "name": "Decisive Strike",
     "role": "survivor",
     "character": "Laurie Strode"
+  },
+  {
+    "name": "Deerstalker",
+    "role": "killer",
+    "character": null
   },
   {
     "name": "Déjà Vu",
@@ -235,9 +355,24 @@
     "character": "Detective Tapp"
   },
   {
+    "name": "Discordance",
+    "role": "killer",
+    "character": "The Legion"
+  },
+  {
+    "name": "Dissolution",
+    "role": "killer",
+    "character": "The Dredge"
+  },
+  {
     "name": "Distortion",
     "role": "survivor",
     "character": "Jeff Johansen"
+  },
+  {
+    "name": "Distressing",
+    "role": "killer",
+    "character": null
   },
   {
     "name": "Diversion",
@@ -245,9 +380,19 @@
     "character": "Adam Francis"
   },
   {
+    "name": "Dragon's Grip",
+    "role": "killer",
+    "character": "The Blight"
+  },
+  {
     "name": "Dramaturgy",
     "role": "survivor",
     "character": "Nicolas Cage"
+  },
+  {
+    "name": "Dying Light",
+    "role": "killer",
+    "character": "The Shape"
   },
   {
     "name": "Empathic Connection",
@@ -260,9 +405,24 @@
     "character": "Claudette Morel"
   },
   {
+    "name": "Enduring",
+    "role": "killer",
+    "character": "The Hillbilly"
+  },
+  {
+    "name": "Eruption",
+    "role": "killer",
+    "character": "The Nemesis"
+  },
+  {
     "name": "Fast Track",
     "role": "survivor",
     "character": "Yun-Jin Lee"
+  },
+  {
+    "name": "Fire Up",
+    "role": "killer",
+    "character": "The Nightmare"
   },
   {
     "name": "Fixated",
@@ -290,9 +450,54 @@
     "character": "Zarina Kassir"
   },
   {
+    "name": "Forced Hesitation",
+    "role": "killer",
+    "character": "The Singularity"
+  },
+  {
+    "name": "Forced Penance",
+    "role": "killer",
+    "character": "The Executioner"
+  },
+  {
+    "name": "Franklin's Demise",
+    "role": "killer",
+    "character": "The Cannibal"
+  },
+  {
     "name": "Friendly Competition",
     "role": "survivor",
     "character": "Thalita Lyra"
+  },
+  {
+    "name": "Friends 'til the End",
+    "role": "killer",
+    "character": "The Good Guy"
+  },
+  {
+    "name": "Furtive Chase",
+    "role": "killer",
+    "character": "The Ghost Face"
+  },
+  {
+    "name": "Game Afoot",
+    "role": "killer",
+    "character": "The Skull Merchant"
+  },
+  {
+    "name": "Gearhead",
+    "role": "killer",
+    "character": "The Deathslinger"
+  },
+  {
+    "name": "Genetic Limits",
+    "role": "killer",
+    "character": "The Singularity"
+  },
+  {
+    "name": "Grim Embrace",
+    "role": "killer",
+    "character": "The Artist"
   },
   {
     "name": "Head On",
@@ -300,14 +505,114 @@
     "character": "Jane Romero"
   },
   {
+    "name": "Hex: Blood Favour",
+    "role": "killer",
+    "character": "The Blight"
+  },
+  {
+    "name": "Hex: Crowd Control",
+    "role": "killer",
+    "character": "The Trickster"
+  },
+  {
+    "name": "Hex: Devour Hope",
+    "role": "killer",
+    "character": "The Hag"
+  },
+  {
+    "name": "Hex: Face the Darkness",
+    "role": "killer",
+    "character": "The Knight"
+  },
+  {
+    "name": "Hex: Haunted Ground",
+    "role": "killer",
+    "character": "The Spirit"
+  },
+  {
+    "name": "Hex: Huntress Lullaby",
+    "role": "killer",
+    "character": "The Huntress"
+  },
+  {
+    "name": "Hex: No One Escapes Death",
+    "role": "killer",
+    "character": null
+  },
+  {
+    "name": "Hex: Pentimento",
+    "role": "killer",
+    "character": "The Artist"
+  },
+  {
+    "name": "Hex: Plaything",
+    "role": "killer",
+    "character": "The Cenobite"
+  },
+  {
+    "name": "Hex: Retribution",
+    "role": "killer",
+    "character": "The Deathslinger"
+  },
+  {
+    "name": "Hex: Ruin",
+    "role": "killer",
+    "character": "The Hag"
+  },
+  {
+    "name": "Hex: The Third Seal",
+    "role": "killer",
+    "character": "The Hag"
+  },
+  {
+    "name": "Hex: Thrill of the Hunt",
+    "role": "killer",
+    "character": null
+  },
+  {
+    "name": "Hex: Two Can Play",
+    "role": "killer",
+    "character": "The Good Guy"
+  },
+  {
+    "name": "Hex: Undying",
+    "role": "killer",
+    "character": "The Blight"
+  },
+  {
+    "name": "Hoarder",
+    "role": "killer",
+    "character": "The Twins"
+  },
+  {
     "name": "Hope",
     "role": "survivor",
     "character": null
   },
   {
+    "name": "Hubris",
+    "role": "killer",
+    "character": "The Knight"
+  },
+  {
     "name": "Hyperfocus",
     "role": "survivor",
     "character": "Rebecca Chambers"
+  },
+  {
+    "name": "Hysteria",
+    "role": "killer",
+    "character": "The Nemesis"
+  },
+  {
+    "name": "I'm All Ears",
+    "role": "killer",
+    "character": "The Ghost Face"
+  },
+  {
+    "name": "Infectious Fright",
+    "role": "killer",
+    "character": "The Plague"
   },
   {
     "name": "Inner Focus",
@@ -320,6 +625,21 @@
     "character": "Nancy Wheeler"
   },
   {
+    "name": "Insidious",
+    "role": "killer",
+    "character": null
+  },
+  {
+    "name": "Iron Grasp",
+    "role": "killer",
+    "character": null
+  },
+  {
+    "name": "Iron Maiden",
+    "role": "killer",
+    "character": "The Legion"
+  },
+  {
     "name": "Iron Will",
     "role": "survivor",
     "character": "Jake Park"
@@ -328,6 +648,11 @@
     "name": "Kindred",
     "role": "survivor",
     "character": null
+  },
+  {
+    "name": "Knock Out",
+    "role": "killer",
+    "character": "The Cannibal"
   },
   {
     "name": "Leader",
@@ -340,9 +665,24 @@
     "character": "Bill Overbeck"
   },
   {
+    "name": "Lethal Pursuer",
+    "role": "killer",
+    "character": "The Nemesis"
+  },
+  {
+    "name": "Leverage",
+    "role": "killer",
+    "character": "The Skull Merchant"
+  },
+  {
     "name": "Light-Footed",
     "role": "survivor",
     "character": "Ellen Ripley"
+  },
+  {
+    "name": "Lightborn",
+    "role": "killer",
+    "character": "The Hillbilly"
   },
   {
     "name": "Lightweight",
@@ -370,14 +710,49 @@
     "character": "Ellen Ripley"
   },
   {
+    "name": "Machine Learning",
+    "role": "killer",
+    "character": "The Singularity"
+  },
+  {
+    "name": "Mad Grit",
+    "role": "killer",
+    "character": "The Legion"
+  },
+  {
     "name": "Made for This",
     "role": "survivor",
     "character": "Gabriel Soma"
   },
   {
+    "name": "Make Your Choice",
+    "role": "killer",
+    "character": "The Pig"
+  },
+  {
+    "name": "Merciless Storm",
+    "role": "killer",
+    "character": "The Onryo"
+  },
+  {
     "name": "Mettle of Man",
     "role": "survivor",
     "character": "Ashley J. Williams"
+  },
+  {
+    "name": "Mindbreaker",
+    "role": "killer",
+    "character": "The Demogorgon"
+  },
+  {
+    "name": "Monitor & Abuse",
+    "role": "killer",
+    "character": "The Doctor"
+  },
+  {
+    "name": "Nemesis",
+    "role": "killer",
+    "character": "The Oni"
   },
   {
     "name": "No Mither",
@@ -388,6 +763,16 @@
     "name": "No One Left Behind",
     "role": "survivor",
     "character": null
+  },
+  {
+    "name": "No Way Out",
+    "role": "killer",
+    "character": "The Trickster"
+  },
+  {
+    "name": "Nowhere to Hide",
+    "role": "killer",
+    "character": "The Knight"
   },
   {
     "name": "Object of Obsession",
@@ -405,9 +790,24 @@
     "character": "Ace Visconti"
   },
   {
+    "name": "Oppression",
+    "role": "killer",
+    "character": "The Twins"
+  },
+  {
+    "name": "Overcharge",
+    "role": "killer",
+    "character": "The Doctor"
+  },
+  {
     "name": "Overcome",
     "role": "survivor",
     "character": "Jonah Vasquez"
+  },
+  {
+    "name": "Overwhelming Presence",
+    "role": "killer",
+    "character": "The Doctor"
   },
   {
     "name": "Overzealous",
@@ -425,6 +825,11 @@
     "character": "Quentin Smith"
   },
   {
+    "name": "Play with Your Food",
+    "role": "killer",
+    "character": "The Shape"
+  },
+  {
     "name": "Plot Twist",
     "role": "survivor",
     "character": "Nicolas Cage"
@@ -440,6 +845,11 @@
     "character": "Jane Romero"
   },
   {
+    "name": "Pop Goes the Weasel",
+    "role": "killer",
+    "character": "The Clown"
+  },
+  {
     "name": "Potential Energy",
     "role": "survivor",
     "character": "Vittorio Toscano"
@@ -448,6 +858,11 @@
     "name": "Power Struggle",
     "role": "survivor",
     "character": "Élodie Rakoto"
+  },
+  {
+    "name": "Predator",
+    "role": "killer",
+    "character": "The Wraith"
   },
   {
     "name": "Premonition",
@@ -470,6 +885,16 @@
     "character": "Vittorio Toscano"
   },
   {
+    "name": "Rancor",
+    "role": "killer",
+    "character": "The Spirit"
+  },
+  {
+    "name": "Rapid Brutality",
+    "role": "killer",
+    "character": "The Xenomorph"
+  },
+  {
     "name": "Reactive Healing",
     "role": "survivor",
     "character": "Ada Wong"
@@ -483,6 +908,11 @@
     "name": "Red Herring",
     "role": "survivor",
     "character": "Zarina Kassir"
+  },
+  {
+    "name": "Remember Me",
+    "role": "killer",
+    "character": "The Nightmare"
   },
   {
     "name": "Repressed Alliance",
@@ -515,6 +945,11 @@
     "character": "Jake Park"
   },
   {
+    "name": "Save the Best for Last",
+    "role": "killer",
+    "character": "The Shape"
+  },
+  {
     "name": "Scavenger",
     "role": "survivor",
     "character": "Gabriel Soma"
@@ -523,6 +958,31 @@
     "name": "Scene Partner",
     "role": "survivor",
     "character": "Nicolas Cage"
+  },
+  {
+    "name": "Scourge Hook: Floods of Rage",
+    "role": "killer",
+    "character": "The Onryo"
+  },
+  {
+    "name": "Scourge Hook: Gift of Pain",
+    "role": "killer",
+    "character": "The Cenobite"
+  },
+  {
+    "name": "Scourge Hook: Hangman's Trick",
+    "role": "killer",
+    "character": "The Pig"
+  },
+  {
+    "name": "Scourge Hook: Monstrous Shrine",
+    "role": "killer",
+    "character": null
+  },
+  {
+    "name": "Scourge Hook: Pain Resonance",
+    "role": "killer",
+    "character": "The Artist"
   },
   {
     "name": "Second Wind",
@@ -540,8 +1000,28 @@
     "character": "Yun-Jin Lee"
   },
   {
+    "name": "Septic Touch",
+    "role": "killer",
+    "character": "The Dredge"
+  },
+  {
+    "name": "Shadowborn",
+    "role": "killer",
+    "character": "The Wraith"
+  },
+  {
+    "name": "Shattered Hope",
+    "role": "killer",
+    "character": null
+  },
+  {
     "name": "Slippery Meat",
     "role": "survivor",
+    "character": null
+  },
+  {
+    "name": "Sloppy Butcher",
+    "role": "killer",
     "character": null
   },
   {
@@ -570,9 +1050,19 @@
     "character": "Cheryl Mason"
   },
   {
+    "name": "Spies from the Shadows",
+    "role": "killer",
+    "character": null
+  },
+  {
     "name": "Spine Chill",
     "role": "survivor",
     "character": null
+  },
+  {
+    "name": "Spirit Fury",
+    "role": "killer",
+    "character": "The Spirit"
   },
   {
     "name": "Sprint Burst",
@@ -585,9 +1075,34 @@
     "character": "Detective Tapp"
   },
   {
+    "name": "Starstruck",
+    "role": "killer",
+    "character": "The Trickster"
+  },
+  {
     "name": "Streetwise",
     "role": "survivor",
     "character": "Nea Karlsson"
+  },
+  {
+    "name": "Stridor",
+    "role": "killer",
+    "character": "The Nurse"
+  },
+  {
+    "name": "Superior Anatomy",
+    "role": "killer",
+    "character": "The Mastermind"
+  },
+  {
+    "name": "Surge",
+    "role": "killer",
+    "character": "The Demogorgon"
+  },
+  {
+    "name": "Surveillance",
+    "role": "killer",
+    "character": "The Pig"
   },
   {
     "name": "Teamwork: Collective Stealth",
@@ -610,9 +1125,44 @@
     "character": "Detective Tapp"
   },
   {
+    "name": "Terminus",
+    "role": "killer",
+    "character": "The Mastermind"
+  },
+  {
+    "name": "Territorial Imperative",
+    "role": "killer",
+    "character": "The Huntress"
+  },
+  {
+    "name": "Thanatophobia",
+    "role": "killer",
+    "character": "The Nurse"
+  },
+  {
     "name": "This Is Not Happening",
     "role": "survivor",
     "character": null
+  },
+  {
+    "name": "Thrilling Tremors",
+    "role": "killer",
+    "character": "The Ghost Face"
+  },
+  {
+    "name": "THWACK!",
+    "role": "killer",
+    "character": "The Skull Merchant"
+  },
+  {
+    "name": "Tinkerer",
+    "role": "killer",
+    "character": "The Hillbilly"
+  },
+  {
+    "name": "Trail of Torment",
+    "role": "killer",
+    "character": "The Executioner"
   },
   {
     "name": "Troubleshooter",
@@ -620,9 +1170,24 @@
     "character": "Gabriel Soma"
   },
   {
+    "name": "Ultimate Weapon",
+    "role": "killer",
+    "character": "The Xenomorph"
+  },
+  {
     "name": "Unbreakable",
     "role": "survivor",
     "character": "Bill Overbeck"
+  },
+  {
+    "name": "Unnerving Presence",
+    "role": "killer",
+    "character": "The Trapper"
+  },
+  {
+    "name": "Unrelenting",
+    "role": "killer",
+    "character": null
   },
   {
     "name": "Up the Ante",
@@ -660,6 +1225,11 @@
     "character": "David King"
   },
   {
+    "name": "Whispers",
+    "role": "killer",
+    "character": null
+  },
+  {
     "name": "Windows of Opportunity",
     "role": "survivor",
     "character": "Kate Denson"
@@ -668,5 +1238,10 @@
     "name": "Wiretap",
     "role": "survivor",
     "character": "Ada Wong"
+  },
+  {
+    "name": "Zanshin Tactics",
+    "role": "killer",
+    "character": "The Oni"
   }
 ]
